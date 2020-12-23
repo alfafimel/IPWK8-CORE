@@ -1,5 +1,5 @@
-# IPWK8-CORE
-Data analysis using Decision trees and SVM
+# HYPOTHYROIDISM: Building a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
+
 ## Overview 
 
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
@@ -29,24 +29,24 @@ Dataset Files : Source [http://bit.ly/hypothyroid_data] (Links to an external si
 
 ## Dataset Columns
 
-Age
-Sex
-on_thyroxine
-query_on_thyroxine
-on_antithyroid_medicationthyroid_surgery
-query_hypothyroid
-query_hyperthyroid
-pregnant
-sick
-tumor
-lithium
-goitre
-TSH_measured
-TSH
-T3_measured
-T3
-TT4_measured
-TT4
+- Age
+- Sex
+- on_thyroxine
+- query_on_thyroxine
+- on_antithyroid_medicationthyroid_surgery
+- query_hypothyroid
+- query_hyperthyroid
+- pregnant
+- sick
+- tumor
+- lithium
+- goitre
+- TSH_measured
+- TSH
+- T3_measured
+- T3
+- TT4_measured
+- TT4
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
